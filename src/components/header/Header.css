@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+    background-image: url('./header-background.png');
+    background-size: 250px;
+    background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  background-position: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    line-height: 10px;
+}
+.header h1{
+    margin-bottom: 0px;
+    font-family:cursive;
+    font-weight: 600;
+}
+.header p{
+    margin: 0;
+    font-size:x-large;
+    font-family:cursive;
+    font-style: italic;
+}
+.header h2{
+    margin: 0;
+    font-family:fantasy;
+}
