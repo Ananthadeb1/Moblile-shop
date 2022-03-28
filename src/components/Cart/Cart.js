@@ -2,7 +2,7 @@ import React from 'react';
 import './Cart.css'
 
 const Cart = (props) => {
-    const { cart, autoChoice, autoChosen } = props;
+    const { cart} = props;
 
 
     return (
@@ -14,7 +14,7 @@ const Cart = (props) => {
                     <p>{product.name}</p>
                 </div>)
             }
-            <button onClick={() => autoChoice(cart)} className='cart-button'>Choose 1 for me</button>
+            <button className='cart-button'>Choose 1 for me</button>
             <button className='cart-button'>Choose again</button>
         </div>
     );

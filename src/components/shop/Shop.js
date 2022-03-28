@@ -1,24 +1,17 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Product from '../product/Product';
-import { random } from '../utilities';
 import './Shop.css'
 
-const Shop = (props) => {
+const Shop = () => {
     const [perfume, setPerfume] = useState([]);
-    useState(() => {
-        fetch('fake.json')
+    useEffect(() => {
+        fetch('fakeapi.json')
             .then(res => res.json())
             .then(data => setPerfume(data))
     }, [])
     const [cart, setCart] = useState([]);
 
-    const autoChoice = (cart) => {
-        const anonymousNum = random(cart.length);
-        const chosen = cart[anonymousNum];
-
-
-    }
 
     const addHandler = (product) => {
         const newCart = [...cart, product];
@@ -34,7 +27,7 @@ const Shop = (props) => {
                 }
             </div>
             <div>
-                <Cart cart={cart} autoChoice={autoChoice} ></Cart>
+                <Cart cart={cart} ></Cart>
             </div>
         </div>
     );
