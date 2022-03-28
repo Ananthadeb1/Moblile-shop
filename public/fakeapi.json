@@ -9,19 +9,19 @@
     },
     {
         "id": "drt6789iuj",
-        "name": "Scent Stories-WAVY",
-        "price": "46",
-        "brand": "Perfumo",
+        "name": "iphone 13",
+        "price": "$1300",
+        "brand": "Apple",
         "rating": "4.12",
-        "image": "https://dummyjson.com/image/i/products/11/3.jpg"
+        "image": "https://i.expansys.net/img/b/330589/apple-iphone-13-5g-dual-sim.jpg"
     },
     {
         "id": "3edt67uj9i",
-        "name": "Scent Stories-DA VINCI CODE",
-        "price": "49",
-        "brand": "Perfumo",
+        "name": "spark 8c",
+        "price": "$220",
+        "brand": "Tacno",
         "rating": "4.50",
-        "image": "https://dummyjson.com/image/i/products/11/thumbnail.jpg"
+        "image": "https://d316acfc88wber.cloudfront.net/global/phones/camon17pro/in_1.png"
     },
     {
         "id": "45rfty678uhh",
@@ -33,58 +33,58 @@
     },
     {
         "id": "23edfghuio",
-        "name": "Xpressio",
-        "price": "59",
-        "brand": "Fogg-scent",
+        "name": "Redmi 9",
+        "price": "$300",
+        "brand": "Xiaomi",
         "rating": "4.8",
-        "image": "https://dummyjson.com/image/i/products/13/2.png"
+        "image": "https://www.91-img.com/pictures/136302-v8-xiaomi-redmi-9-mobile-phone-large-1.jpg"
     },
     {
         "id": "6tfghuyt456",
-        "name": "Royal Mirage Sport",
-        "price": "19",
-        "brand": "Royal Mirage",
+        "name": "A49",
+        "price": "$150",
+        "brand": "Itel",
         "rating": "3.9",
-        "image": "https://dummyjson.com/image/i/products/12/thumbnail.jpg"
+        "image": "https://www.itel-india.com/wp-content/uploads/2021/09/22-450x450.jpg"
     },
     {
         "id": "5erty7iuh9",
-        "name": "Classiques Cascador",
-        "price": "60$",
-        "brand": "Henry Jacues",
+        "name": "A9",
+        "price": "$250",
+        "brand": "Oppo",
         "rating": "4.8",
-        "image": "https://parfumshenryjacques.com/uploads/transforms/95ecab5dd79a17cb2636cf25c0ed02f1/3042/HJ_CLASSIQUES_CASCADOR_f9d35c2e75cded6d5435415681c0a155.webp"
+        "image": "https://5.imimg.com/data5/SELLER/Default/2021/1/HK/LE/LL/1073409/oppo-mobile-a9-2020-500x500.jpg"
     },
     {
         "id": "345rtfgvbhju",
-        "name": "Sauvge Eau De Parfum",
-        "price": "63",
-        "brand": "Dior",
+        "name": "Nazro 50",
+        "price": "$300",
+        "brand": "realme",
         "rating": "4.26",
-        "image": "https://the-fragrance-shop.imgix.net/products/40251--2.jpg"
+        "image": "https://image01.realme.net/general/20220223/1645593445541.png"
     },
     {
         "id": "4rt6rf8ik",
-        "name": "ALLURE Home Sport",
-        "price": "34",
-        "brand": "CHANEL",
+        "name": "Reno 6",
+        "price": "$400",
+        "brand": "Oppo",
         "rating": "4.4",
-        "image": "https://the-fragrance-shop.imgix.net/products/3145891235609.jpg?h=420&w=420&max-w=420&q=85"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrhfUU9G1iYFRqExTn_xjYiNr_4WsBLxbi8rvao8L8DAOamluj5wTTxDpFklb4-HbOOUM&usqp=CAU"
     },
     {
         "id": "9ijhy6tfde3",
-        "name": "POLO",
-        "price": "30",
-        "brand": "Ralph Lauren Red",
+        "name": "F17 pro",
+        "price": "$380",
+        "brand": "Oppo",
         "rating": "4.66",
-        "image": "https://the-fragrance-shop.imgix.net/products/52542-2.jpg"
+        "image": "https://5.imimg.com/data5/SELLER/Default/2020/12/WI/VR/VK/118676901/oppo-f17-pro-mobile-500x500.jpg"
     },
     {
         "id": "10lmnhy76rfg",
-        "name": "1 Million Perfume",
-        "price": "59",
-        "brand": "Paco Rabanne",
+        "name": "Nord Ce",
+        "price": "$599",
+        "brand": "OnePlus",
         "rating": "4.5",
-        "image": "https://the-fragrance-shop.imgix.net/products/52445-2.jpg"
+        "image": "https://m.media-amazon.com/images/I/61iy2Ru9KdS._SX569_.jpg"
     }
 ]
