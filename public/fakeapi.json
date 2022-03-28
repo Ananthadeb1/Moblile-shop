@@ -1,0 +1,90 @@
+[
+    {
+        "id": "345rtfgvbhju",
+        "name": "realme 3 pro",
+        "price": "$200",
+        "brand": "Realme",
+        "rating": "4.26",
+        "image": "https://5.imimg.com/data5/FS/RK/IL/SELLER-75399561/realme-3-pro-lightning-purple-64-gb-mobile-phones-500x500.jpg"
+    },
+    {
+        "id": "drt6789iuj",
+        "name": "Scent Stories-WAVY",
+        "price": "46",
+        "brand": "Perfumo",
+        "rating": "4.12",
+        "image": "https://dummyjson.com/image/i/products/11/3.jpg"
+    },
+    {
+        "id": "3edt67uj9i",
+        "name": "Scent Stories-DA VINCI CODE",
+        "price": "49",
+        "brand": "Perfumo",
+        "rating": "4.50",
+        "image": "https://dummyjson.com/image/i/products/11/thumbnail.jpg"
+    },
+    {
+        "id": "45rfty678uhh",
+        "name": "iphone 12 ",
+        "price": "$1200",
+        "brand": "Apple",
+        "rating": "4.5",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.co.uk%2FNew-Apple-iPhone-12-256GB%2Fdp%2FB08L5QS9BJ&psig=AOvVaw3uGNQJAEkpzkILGTAgLK82&ust=1648561913165000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIi7i-_56PYCFQAAAAAdAAAAABAI"
+    },
+    {
+        "id": "23edfghuio",
+        "name": "Xpressio",
+        "price": "59",
+        "brand": "Fogg-scent",
+        "rating": "4.8",
+        "image": "https://dummyjson.com/image/i/products/13/2.png"
+    },
+    {
+        "id": "6tfghuyt456",
+        "name": "Royal Mirage Sport",
+        "price": "19",
+        "brand": "Royal Mirage",
+        "rating": "3.9",
+        "image": "https://dummyjson.com/image/i/products/12/thumbnail.jpg"
+    },
+    {
+        "id": "5erty7iuh9",
+        "name": "Classiques Cascador",
+        "price": "60$",
+        "brand": "Henry Jacues",
+        "rating": "4.8",
+        "image": "https://parfumshenryjacques.com/uploads/transforms/95ecab5dd79a17cb2636cf25c0ed02f1/3042/HJ_CLASSIQUES_CASCADOR_f9d35c2e75cded6d5435415681c0a155.webp"
+    },
+    {
+        "id": "345rtfgvbhju",
+        "name": "Sauvge Eau De Parfum",
+        "price": "63",
+        "brand": "Dior",
+        "rating": "4.26",
+        "image": "https://the-fragrance-shop.imgix.net/products/40251--2.jpg"
+    },
+    {
+        "id": "4rt6rf8ik",
+        "name": "ALLURE Home Sport",
+        "price": "34",
+        "brand": "CHANEL",
+        "rating": "4.4",
+        "image": "https://the-fragrance-shop.imgix.net/products/3145891235609.jpg?h=420&w=420&max-w=420&q=85"
+    },
+    {
+        "id": "9ijhy6tfde3",
+        "name": "POLO",
+        "price": "30",
+        "brand": "Ralph Lauren Red",
+        "rating": "4.66",
+        "image": "https://the-fragrance-shop.imgix.net/products/52542-2.jpg"
+    },
+    {
+        "id": "10lmnhy76rfg",
+        "name": "1 Million Perfume",
+        "price": "59",
+        "brand": "Paco Rabanne",
+        "rating": "4.5",
+        "image": "https://the-fragrance-shop.imgix.net/products/52445-2.jpg"
+    }
+]
